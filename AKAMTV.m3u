@@ -201,6 +201,8 @@ https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist
 https://pbc.furrera.ps/palestinelivehd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y6qWOa2.png",al jazeera mubasher
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EIRwNo.png",alwan sport
+https://stream.kurdtv.live/alwan-sport/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E7IRwNo.png",al jazeera documentary
 https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/624/439/png-clipart-national-geographic-abu-dhabi-television-channel-logo-national-magazine-awards-television-angle.png",nat geo abu dhabi
