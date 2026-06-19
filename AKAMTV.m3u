@@ -47,10 +47,7 @@ http://avrstream.com:1935/live/AvarTv/playlist.m3u8
 https://kurdchhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FYoZdgd.jpeg",zhin tv
 https://183.bozztv.com/giatv/giatv-zhintv/zhintv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/fnlOclpn4TPCxmCTF6NryvufnHBa6nuweGFDUoYRXf1byorWRb9ZcAJI0DNNCfY8d_t-phm1=s160-c-k-c0x00ffffff-no-rj",SoranEntertainment
-http://avrstream.com:1935/live/SoranEntertainment/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jj3DLNv.jpeg",Next tv
-https://next.badinan.xyz/nexttv/FHD/chunklist_w2146685998.m3u8
+
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/9zOhX61wCOwdHeJn_dqqHtRHSECy9yj8ScnDgweFRnLgzaEZaLpip65cwLbtALrIFVWSG22kuA=s160-c-k-c0x00ffffff-no-rj",K21
 http://k21hd.mypsx.net:40/live/KANALI/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/2IPU5uwl4nSmp9cqaa6l6QejXSvOhLgzJyM9KZeSpQYxd12Oz1ujgDz2pJI9Y3mgq18J=w480-h960-rw",REDTV
@@ -111,13 +108,17 @@ https://sportzfylive.com/stream/hd11-turkey-x-paraguay-2026-06-20/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/kAQClJ5UdTFBNKNm8fpQ6whrA6CGDxifDgwzUBKEDb3hvlhnpbhM3isLX3J5nMiaR1Y=w480-h960-rw",GK plus
 https://live.host247.net/gk/gkplus/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/fnlOclpn4TPCxmCTF6NryvufnHBa6nuweGFDUoYRXf1byorWRb9ZcAJI0DNNCfY8d_t-phm1=s160-c-k-c0x00ffffff-no-rj",SoranEntertainment
+http://avrstream.com:1935/live/SoranEntertainment/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jj3DLNv.jpeg",Next tv
+https://next.badinan.xyz/nexttv/FHD/chunklist_w2146685998.m3u8
 
-#EXTINF:-1 tvg-logo="https://api.hdbox.net/assets/0ddad16a-a586-4481-89b2-3c127c98f5b3",sada tv
-http://baskhd.ddns.net:40/live/sadatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mixmedia.tv/wp-content/uploads/2024/10/IMK-1.png",IMK
 http://imkhd.ddns.net:1935/live/imkhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mixmedia.tv/wp-content/uploads/2024/10/IMK-1.png",imk quran
 http://avrstream.com:1935/live/IMKQURANHD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://api.hdbox.net/assets/0ddad16a-a586-4481-89b2-3c127c98f5b3",sada tv
+http://baskhd.ddns.net:40/live/sadatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://logomoose.com/wp-content/uploads/2009/10/oneplus.jpg",one plus
 http://217.76.62.187/hls/kurdiplus.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cvKGVKD.png",Ala HD
