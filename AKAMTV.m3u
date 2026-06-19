@@ -90,12 +90,17 @@ http://naqshi-media.com:1935/live/NaqshiMedia/playlist.m3u8
 https://live20.bozztv.com/giatv/giatv-ESRAHD/ESRAHD/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Esra-designstyle-candy-m.png",esra 2
 https://live20.bozztv.com/giatv/giatv-esra2hd_kamalblbas/esra2hd_kamalblbas/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://mixmedia.tv/wp-content/uploads/2024/10/IMK-1.png",IMK
+http://imkhd.ddns.net:1935/live/imkhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/nrt-sport.png",NRT sport
 https://live20.bozztv.com/giatv/giatv-NRT-SPORT/NRT-SPORT/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/NxtuERkrUQZUGN9LonfXrLU8-L_MP6TJPXhYH8c32si7YVqhoCArxR2hackzbpPrzmP2291D0g=s160-c-k-c0x00ffffff-no-rj",gewher sport
 https://cdn.karwan.tv:443/gewher-sport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.speemedia.com/logocc4.png",SPI sport
 https://live20.bozztv.com/giatv/giatv-spi_sports_hd/spi_sports_hd/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/kAQClJ5UdTFBNKNm8fpQ6whrA6CGDxifDgwzUBKEDb3hvlhnpbhM3isLX3J5nMiaR1Y=w480-h960-rw",GK plus
 https://live.host247.net/gk/gkplus/playlist.m3u8
 
@@ -116,8 +121,7 @@ http://avrstream.com:1935/live/SoranEntertainment/playlist.m3u8
 https://next.badinan.xyz/nexttv/FHD/chunklist_w2146685998.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://mixmedia.tv/wp-content/uploads/2024/10/IMK-1.png",IMK
-http://imkhd.ddns.net:1935/live/imkhd/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://mixmedia.tv/wp-content/uploads/2024/10/IMK-1.png",imk quran
 http://avrstream.com:1935/live/IMKQURANHD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://api.hdbox.net/assets/0ddad16a-a586-4481-89b2-3c127c98f5b3",sada tv
