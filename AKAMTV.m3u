@@ -101,6 +101,9 @@ https://cdn.karwan.tv:443/gewher-sport/tracks-v1a1/mono.m3u8
 https://live20.bozztv.com/giatv/giatv-spi_sports_hd/spi_sports_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://performingartistes.co.uk/assets/photos/FIFA2026.jpg",USA x Australia
 https://sportzfylive.com/stream/hd11-usa-x-australia-2026-06-19/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://performingartistes.co.uk/assets/photos/FIFA2026.jpg",Scotland x Morocco
+https://sportzfylive.com/stream/hd11-scotland-x-morocco-2026-06-19/manifest.m3u8
+
 #EXTINF:-1 tvg-logo="https://api.hdbox.net/assets/0ddad16a-a586-4481-89b2-3c127c98f5b3",sada tv
 http://baskhd.ddns.net:40/live/sadatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mixmedia.tv/wp-content/uploads/2024/10/IMK-1.png",IMK
