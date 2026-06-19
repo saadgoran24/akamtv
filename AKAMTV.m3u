@@ -1,7 +1,4 @@
 ﻿#EXTM3U
-
-#EXTINF:-1 tvg-logo="https://performingartistes.co.uk/assets/photos/FIFA2026.jpg",world cup 2026
-https://sportzfylive.com/stream/hd11-usa-x-australia-2026-06-19/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://api.hdbox.net/assets/8c6f778b-c3ed-41bc-9a50-ce05ff673843",Rudaw
 https://live.rudaw.net/hls/rudaw-tv/master.m3u8
 #EXTINF:-1 tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/k-24.png",Kurdistan24
@@ -102,6 +99,8 @@ https://live20.bozztv.com/giatv/giatv-NRT-SPORT/NRT-SPORT/chunks.m3u8
 https://cdn.karwan.tv:443/gewher-sport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.speemedia.com/logocc4.png",SPI sport
 https://live20.bozztv.com/giatv/giatv-spi_sports_hd/spi_sports_hd/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://performingartistes.co.uk/assets/photos/FIFA2026.jpg",USA x Australia
+https://sportzfylive.com/stream/hd11-usa-x-australia-2026-06-19/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://api.hdbox.net/assets/0ddad16a-a586-4481-89b2-3c127c98f5b3",sada tv
 http://baskhd.ddns.net:40/live/sadatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mixmedia.tv/wp-content/uploads/2024/10/IMK-1.png",IMK
