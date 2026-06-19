@@ -108,6 +108,8 @@ https://sportzfylive.com/stream/hd11-brazil-x-haiti-2026-06-20/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://api.hdbox.net/assets/0ddad16a-a586-4481-89b2-3c127c98f5b3",sada tv
 http://baskhd.ddns.net:40/live/sadatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/kAQClJ5UdTFBNKNm8fpQ6whrA6CGDxifDgwzUBKEDb3hvlhnpbhM3isLX3J5nMiaR1Y=w480-h960-rw",GK plus
+https://live.host247.net/gk/gkplus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mixmedia.tv/wp-content/uploads/2024/10/IMK-1.png",IMK
 http://imkhd.ddns.net:1935/live/imkhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mixmedia.tv/wp-content/uploads/2024/10/IMK-1.png",imk quran
@@ -122,8 +124,6 @@ https://live20.bozztv.com/giatv/giatv-znar/znar/chunks.m3u8
 https://live20.bozztv.com/giatv/giatv-znarkids/znarkids/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/z0Uu9aXx_-pjLtxUoz3qSjrDbtZ1tmNoXuLfFPsKYZjpV12H2jg8jpffsSSRprhHS4suhaMC8K-08EdlFixw=w480-h960-rw",kikuk tv
 https://live.kirkuklive.live/hls/stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/kAQClJ5UdTFBNKNm8fpQ6whrA6CGDxifDgwzUBKEDb3hvlhnpbhM3isLX3J5nMiaR1Y=w480-h960-rw",GK plus
-https://live.host247.net/gk/gkplus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/vOMV90y25YDRtvUVCbkoAvQ_5rGZsMAxQkegh-R5xQdUi0g-YRcuQno1yuw3v-CB1A=w480-h960-rw",zaroktv
 https://zindisorani.zaroktv.com.tr/hls/0/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KvC7CZb.png",kurd 7
