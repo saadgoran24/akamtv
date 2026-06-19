@@ -109,11 +109,11 @@ https://sportzfylive.com/stream/hd11-brazil-x-haiti-2026-06-20/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://performingartistes.co.uk/assets/photos/FIFA2026.jpg",turkey x paraguay
 https://sportzfylive.com/stream/hd11-turkey-x-paraguay-2026-06-20/manifest.m3u8
 
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/kAQClJ5UdTFBNKNm8fpQ6whrA6CGDxifDgwzUBKEDb3hvlhnpbhM3isLX3J5nMiaR1Y=w480-h960-rw",GK plus
+https://live.host247.net/gk/gkplus/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://api.hdbox.net/assets/0ddad16a-a586-4481-89b2-3c127c98f5b3",sada tv
 http://baskhd.ddns.net:40/live/sadatv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/kAQClJ5UdTFBNKNm8fpQ6whrA6CGDxifDgwzUBKEDb3hvlhnpbhM3isLX3J5nMiaR1Y=w480-h960-rw",GK plus
-https://live.host247.net/gk/gkplus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mixmedia.tv/wp-content/uploads/2024/10/IMK-1.png",IMK
 http://imkhd.ddns.net:1935/live/imkhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mixmedia.tv/wp-content/uploads/2024/10/IMK-1.png",imk quran
