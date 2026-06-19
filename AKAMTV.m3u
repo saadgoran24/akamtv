@@ -106,12 +106,13 @@ https://sportzfylive.com/stream/hd11-brazil-x-haiti-2026-06-20/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://performingartistes.co.uk/assets/photos/FIFA2026.jpg",turkey x paraguay
 https://sportzfylive.com/stream/hd11-turkey-x-paraguay-2026-06-20/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/kAQClJ5UdTFBNKNm8fpQ6whrA6CGDxifDgwzUBKEDb3hvlhnpbhM3isLX3J5nMiaR1Y=w480-h960-rw",GK plus
-https://live.host247.net/gk/gkplus/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/fnlOclpn4TPCxmCTF6NryvufnHBa6nuweGFDUoYRXf1byorWRb9ZcAJI0DNNCfY8d_t-phm1=s160-c-k-c0x00ffffff-no-rj",SoranEntertainment
 http://avrstream.com:1935/live/SoranEntertainment/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jj3DLNv.jpeg",Next tv
 https://next.badinan.xyz/nexttv/FHD/chunklist_w2146685998.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/kAQClJ5UdTFBNKNm8fpQ6whrA6CGDxifDgwzUBKEDb3hvlhnpbhM3isLX3J5nMiaR1Y=w480-h960-rw",GK plus
+https://live.host247.net/gk/gkplus/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mixmedia.tv/wp-content/uploads/2024/10/IMK-1.png",IMK
 http://imkhd.ddns.net:1935/live/imkhd/playlist.m3u8
