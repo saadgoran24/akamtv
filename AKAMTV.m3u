@@ -23,6 +23,11 @@ https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD-avc1_2500000
 https://stream.badinan.xyz/welat/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/speda.png",Speda
 http://s3.e-cdn.me:80/live/Bengamenbukinafaso2026/msvrpi45e1/129959.m3u8
+
+#EXTINF:-1 tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/spda-drama.png",Speda DRAMA
+http://109.71.252.138:80/Speddaram4kk/mpegts?token=yusfstore3434fyusfstore3434yusfstore3434yusfstore3434yusfstore3434fwestrqwerwefwefrwefwefwes&type=live
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AYNMYpG.jpeg",bangawaz tv
 http://bangawaztv.ddns.net:40/live/bangawaztv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/payam.png",Payam TV
