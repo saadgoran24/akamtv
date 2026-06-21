@@ -261,16 +261,14 @@ https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tBTkXDU.jpeg",TRT Cocuk
 https://tv-e-okul01.medya.trt.com.tr/master.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ly4TOkr.png",iran tv
+https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5KZIACk.png",IRIB 1
 https://live-aburayhan1111.telewebion.ir/ek/tv1/live/1080p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lbPdypR.png",IRIB 2
 https://live-aburayhan1111.telewebion.ir/ek/tv2/live/1080p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p1LhqC4.png",IRIB 4
 https://live-aburayhan1109.telewebion.ir/ek/tv4/live/576p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ly4TOkr.png",iran tv
-https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8
 #EXTINF:-1 tvg-logo="https://watch.toughprotection.com/uploads/tv_image/sm/irib-quran.png",IRIB Quran
 https://live-aburayhan1102.telewebion.ir/ek/quran/live/1080p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n5wOeeF.png",mostanad
