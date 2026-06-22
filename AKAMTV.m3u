@@ -320,5 +320,8 @@ https://live-aburayhan1102.telewebion.ir/ek/varzesh/live/1080p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://watch.toughprotection.com/uploads/tv_image/sm/irib-quran.png",IRIB Quran
 https://live-aburayhan1102.telewebion.ir/ek/quran/live/1080p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://watch.toughprotection.com/uploads/tv_image/sm/irib-quan.png",Kalemaeh tv
+https://player.kalemeh.tv/live/ngrp:kalemeh_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n5wOeeF.png",mostanad
 https://live-aburayhan1113.telewebion.ir/ek/mostanad/live/1080p/index.m3u8
