@@ -124,8 +124,6 @@ http://avrstream.com:1935/live/SoranEntertainment/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jj3DLNv.jpeg",Next tv
 https://next.badinan.xyz/nexttv/FHD/chunklist_w2146685998.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://mixmedia.tv/wp-content/uploads/2024/10/IMK-1.png",imk quran
 http://avrstream.com:1935/live/IMKQURANHD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://api.hdbox.net/assets/0ddad16a-a586-4481-89b2-3c127c98f5b3",sada tv
@@ -252,6 +250,8 @@ http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AYiyp8q.jpeg",al iraqiya
 https://imn-live.esite-lab.com/hls/iraqia-general.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AYip8q.jpeg",Dijla
+https://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jduNvzT.png",AL RASHEED HD
 https://media1.livaat.com/static/AL-RASHEED-HD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sS36AIn.gif",huda tv
