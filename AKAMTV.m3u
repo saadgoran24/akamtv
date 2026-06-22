@@ -219,6 +219,10 @@ https://live-news.asharq.com/asharq.m3u8
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k4GacqV.jpeg",shams tv
 https://stream.shams.tv/hls/0/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k4acqV.jpeg",Qarar 1
+https://qatartv.akamaized.net/hls/live/20000609/qtv1/stream_04/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hre0vw9.jpeg",Roya drama
 https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/drama/playlist/3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a2cI0nT.jpeg",al asharq documentary
