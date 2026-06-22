@@ -265,6 +265,10 @@ https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5KZIACk.png",IRIB 1
 https://live-aburayhan1111.telewebion.ir/ek/tv1/live/1080p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lbPdypR.png",IRIB 2
+https://live-aburayhan1111.telewebion.ir/ek/tv1/live/1080p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lbdypR.png",IRIB 3
+https://oitnhls.wns.live/hls/stream.m3u8
+
 https://live-aburayhan1111.telewebion.ir/ek/tv2/live/1080p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p1LhqC4.png",IRIB 4
 https://live-aburayhan1109.telewebion.ir/ek/tv4/live/576p/index.m3u8
