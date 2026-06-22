@@ -222,9 +222,10 @@ https://stream.shams.tv/hls/0/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k4acqV.jpeg",Qatar 1
 https://qatartv.akamaized.net/hls/live/20000609/qtv1/stream_04/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k4cqV.jpeg",Qatar 2
 https://live.kwikmotion.com/qtv2live/qtv2.smil/qtv2publish/qtv2_480p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k4cqV.jpeg",Qatar Quran
+https://qatartv.akamaized.net/hls/live/20000612/qtvquran/stream_04/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hre0vw9.jpeg",Roya drama
 https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/drama/playlist/3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a2cI0nT.jpeg",al asharq documentary
