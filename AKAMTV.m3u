@@ -263,6 +263,10 @@ https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
 https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/cooking/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EKrJsOO.png",afaq tv
 https://s1.ettehadlive.com/live/1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EKJsOO.png",iqra arabic
+
+https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/PRAd1q7Xa2Z-S-PuPa24B7v_9kbpm6DOrglY7QE23niNe1TtORkbTni11BEnzZr_qm0Vx1RNB-7H9UKX68sI=w480-h960-rw",roya kitchen
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-kitchen/playlist.m3u8
 
