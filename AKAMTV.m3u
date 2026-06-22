@@ -186,6 +186,9 @@ http://afarinTV.flashmediacast.com:1935/afarinTV/livestream/playlist.m3u8
 http://avrstream.com:1935/live/kidcohd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/_kWIHLmuhDCQE_0kn04PieGljfQ1QR1nvtGkENlMFKc9TxXLEdxVZayyIwnPpmctpxGtJz0A=s160-c-k-c0x00ffffff-no-rj",one kids
 http://217.76.62.187/hls/kids.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Scy6P.png",kids
+https://5a8308add0b31.streamlock.net/atfal1.com/atfal2/chunklist_w807458924.m3u8
 #EXTINF:-1 tvg-logo="https://api.hdbox.net/assets/380d5ef8-5bd2-496c-85ee-407fc08815b6",Al-Jazeera
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ScyTG6P.png",BBC arabic
