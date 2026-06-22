@@ -264,6 +264,8 @@ https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/cooking/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EKrJsOO.png",afaq tv
 https://s1.ettehadlive.com/live/1/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EKrJsO.png",Kuwait Ethra
+https://kwtethta.cdn.mangomolo.com/eth/smil:eth.stream.smil/chunklist_b550000_t64MzYwcA==.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EKJsOO.png",iqra arabic
 
 https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv3/playlist.m3u8
