@@ -291,6 +291,10 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I0bgXll.jpeg",BBC Kids
 http://193.46.58.239:8080/CbeebiesHD/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I0gXll.jpeg",islam
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/c6a600b0-82cb-454a-8953-2bb2bb372edc/master.m3u8
 #EXTINF:-1 tvg-logo="https://api.hdbox.net/assets/0313a7df-e5e2-4868-bf59-6452e057bb87",National Geographic HD
 http://116.204.149.16/national_geographic_channel/index.m3u8
 #EXTINF:-1 tvg-logo="https://api.hdbox.net/assets/abb4daa2-ca8c-4b6d-95aa-f18ba6225a77",NAT GEO Wild HD
