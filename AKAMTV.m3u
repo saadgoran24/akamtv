@@ -100,10 +100,7 @@ https://live20.bozztv.com/giatv/giatv-esra2hd_kamalblbas/esra2hd_kamalblbas/chun
 #EXTINF:-1 tvg-logo="https://mixmedia.tv/wp-content/uploads/2024/10/IMK-1.png",IMK
 http://imkhd.ddns.net:1935/live/imkhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/nrt-sport.png",NRT sport
-http://104.160.15.218/sQM82fHUOeivj3b__hi__m54woJ28QzqDDsDSsCBbBVxqHr5TG1bClE9QfLuSdBCx0CopzVhSoQSku3y78cxL4F8LyWtsIBrnJmQtpsKY0wU46k2qGPP0affHWyg0xqDwpRV1rHrfEi__ih__TDbR4cho__hi__jvD6IA9V5x7f2U__hi__E72z__ih__jv18XfDWUIFNa1kOm7py4dkO9EEHgKvImqd9OYqRTwTSKWvNb30l5cm1OgWRCzLu4MNywuXDbHsL2vwROslMo3XPNwPvOXaqrVIUKHcf6sv9St7Z84__ih__zX__ih____hi__LBM0ar6__hi__OcMDr6spo=---/cache/NRT-Sport-LB/m3u8/NRT-Sport_tracks-v1a1_mono.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/NxtuERkrUQZUGN9LonfXrLU8-L_MP6TJPXhYH8c32si7YVqhoCArxR2hackzbpPrzmP2291D0g=s160-c-k-c0x00fff-no-rj",Falcon-Eye-HD 1
-http://104.160.15.138/ke8DQLnzO5LpA0AIBBRBx87K46HHeI4CvRlGX8__hi____ih__2Ejju__ih__fSJqm8U4I7uhMIKkjg8knZQHF3tfvrgGu4Jt__hi__3Mu31EgfAXUhO6WpTkrlSF9vhrCt4BFeGD8prh5p26__hi__V__ih__wshXrMX__hi__L3aB9Fbc0FADwN5iABF__ih__020KWCO1wu__ih__Ba4WUaqao30lxah1TAAn5vLcUG4v4cOWzX4EkuNaDm5ZpoKZbzBQTnFONYjRtByw8VUQ17lkDAOnvNnQ3__hi__P5EZeoxYLoyI4QbNUsFmiAJPNi3__hi__PG__ih__3mKUrvxm8L__ih__fFKsa5RhQ=---/cache/Falcon-Eye-LB/m3u8/hls_m3u8_Falcon-Eye-HD.m3u8
-
+https://live20.bozztv.com/giatv/giatv-NRT-SPORT/NRT-SPORT/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/NxtuERkrUQZUGN9LonfXrLU8-L_MP6TJPXhYH8c32si7YVqhoCArxR2hackzbpPrzmP2291D0g=s160-c-k-c0x00ffffff-no-rj",gewher sport
 https://cdn.karwan.tv:443/gewher-sport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.speemedia.com/logocc4.png",SPI sport
