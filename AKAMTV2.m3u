@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 #EXTINF:-1 tvg-logo="https://api.hdbox.net/assets/8c6f778b-c3ed-41bc-9a50-ce05ff673843",Rudaw
-https://github.com/saadgoran24/updater/raw/refs/heads/main/updater.mp4
+https://live.rudaw.net/hls/rudaw-tv/master.m3u8
 #EXTINF:-1 tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/k-24.png",Kurdistan24
 https://hlspackager.akamaized.net/live/DB/K24/HLS/K24-avc1_2500000=10002,mp4a_128000=20000.m3u8
 #EXTINF:-1 tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/nrt-1.png",NRT
