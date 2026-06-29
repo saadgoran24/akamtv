@@ -312,5 +312,6 @@ https://mediamtx.elitelatrade.com/live/stream/main_stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gwYYk9.jpeg",tw SPORT
 https://live-aburayhan1113.telewebion.ir/ek/sport1/live/1080p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/grwYYk9.jpeg",pooya HD
-https://nl2-cdn.sepehrtv.org/securelive3/pooyahd/1080p.m3u8?s=WE2dMcQfflgJHz19fFwKgg&t=1782701076#EXTINF:-1 tvg-logo="https://i.imgur.com/grwYk9.jpeg",IRIB 4K
+https://nl2-cdn.sepehrtv.org/securelive3/pooyahd/1080p.m3u8?s=WE2dMcQfflgJHz19fFwKgg&t=1782701076
+#EXTINF:-1 tvg-logo="https://i.imgur.com/grwYk9.jpeg",IRIB 4K
 https://s4-cdn.sepehrtv.ir/securelive3/uhd/1080p.m3u8?s=IoC-WIGuUCw8QGo_7E9EwQ&t=1782700018
