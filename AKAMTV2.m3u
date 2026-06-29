@@ -105,6 +105,8 @@ https://183.bozztv.com/giatv/giatv-avasoport/avasoport/chunks.m3u8
 https://lbgo.bozztv.com/ssh101/ssh101/shna3kobani/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/kAQClJ5UdTFBNKNm8fpQ6whrA6CGDxifDgwzUBKEDb3hvlhnpbhM3isLX3J5nMiaR1Y=w480-h960-rw",GK plus
 https://live.host247.net/gk/gkplus/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/grwYk9.jpeg",IRIB SPORT 4K
+https://live-aburayhan1109.telewebion.ir/ek/faratar/live/108050p/index.m3u8
 #EXTINF:-1 tvg-logo="https://performingartistes.co.uk/assets/photos/FIFA2026.jpg",1 world cup 2026
 https://s3.us-east-2.amazonaws.com/cdnw100/live/stream/720p/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://performingartistes.co.uk/assets/photos/FIFA2026.jpg",2 world cup 2026
@@ -313,5 +315,3 @@ https://mediamtx.elitelatrade.com/live/stream/main_stream.m3u8
 https://live-aburayhan1113.telewebion.ir/ek/sport1/live/1080p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/grwYYk9.jpeg",pooya HD
 https://nl2-cdn.sepehrtv.org/securelive3/pooyahd/1080p.m3u8?s=WE2dMcQfflgJHz19fFwKgg&t=1782701076
-#EXTINF:-1 tvg-logo="https://i.imgur.com/grwYk9.jpeg",IRIB 4K
-https://s4-cdn.sepehrtv.ir/securelive3/uhd/1080p.m3u8?s=IoC-WIGuUCw8QGo_7E9EwQ&t=1782700018
