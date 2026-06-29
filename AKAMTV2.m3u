@@ -173,6 +173,8 @@ http://baskhd.ddns.net:40/live/Derin/playlist.m3u8
 http://afarintv2.flashmediacast.com:1935/afarinTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/a-kids.png",afarin kids
 http://afarinTV.flashmediacast.com:1935/afarinTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mixmedia.tv/wp-content/uploads/202/08/a-kids.png",SPI kids
+https://live20.bozztv.com/giatv/giatv-spikids4k2025/spikids4k2025/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://api.hdbox.net/assets/2f9d05db-ebb2-4981-8042-059da2e4955a",kidco hd
 http://avrstream.com:1935/live/kidcohd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/_kWIHLmuhDCQE_0kn04PieGljfQ1QR1nvtGkENlMFKc9TxXLEdxVZayyIwnPpmctpxGtJz0A=s160-c-k-c0x00ffffff-no-rj",one kids
