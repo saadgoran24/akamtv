@@ -87,7 +87,7 @@ http://baskhd.ddns.net:40/live/QURANHDTV/mono.m3u8
 http://mmn.mypsx.net:1935/live/mmnhdquran/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mixmedia.tv/wp-content/uploads/2024/10/IMK-1.png",imk quran
 http://avrstream.com:1935/live/IMKQURANHD/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/V3l865CaNt9UFW9iuRQu7Z9RkO2jpQKtSzxqwRKyKyN2LXmjNUXCdpc_Khbz20S7iE2VUTiJgYbnJmAn9nTitA=w480-h960-rw",shna quran
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wc1kqYa.jpeg",shna quran
 http://rawshan.ddns.net:1935/live/rawshantv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/fnlOclpn4TPCxmCTF6NryvufnHBa6nuweGFDUoYRXf1byorWRb9ZcAJI0DNNCfY8d_t-phm1=s160-c-k-c0x00ffffff-no-rj",SoranEntertainment
 http://avrstream.com:1935/live/SoranEntertainment/playlist.m3u8
@@ -103,7 +103,7 @@ https://cdn.karwan.tv:443/gewher-sport/tracks-v1a1/mono.m3u8
 https://live20.bozztv.com/giatv/giatv-spi_sports_hd/spi_sports_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://mixmedia.tv/wp-content/uploads/2023/12/ava-sport.png",ava sport
 https://183.bozztv.com/giatv/giatv-avasoport/avasoport/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DB44LDF.jpeg",shna sport
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1bdKB9z.jpeg",shna sport
 https://lbgo.bozztv.com/ssh101/ssh101/shna3kobani/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/kAQClJ5UdTFBNKNm8fpQ6whrA6CGDxifDgwzUBKEDb3hvlhnpbhM3isLX3J5nMiaR1Y=w480-h960-rw",GK plus
 https://live.host247.net/gk/gkplus/playlist.m3u8
@@ -131,7 +131,7 @@ https://live20.bozztv.com/giatv/giatv-znar/znar/chunks.m3u8
 https://live.kirkuklive.live/hls/stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FYoZdgd.jpeg",zhin tv
 https://183.bozztv.com/giatv/giatv-zhintv/zhintv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://rashaba.com/assets/images/ch_logo/shana_v1.webp",shnatv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1bdKB9z.jpeg",shna tv
 http://shnatv.ddns.net:1935/live/shnatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://rashaba.com/assets/images/ch_logo/shana_v1.webp",shna doc
 https://cdn.karwan.tv/shna-tv-3/index.m3u8
