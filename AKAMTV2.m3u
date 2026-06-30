@@ -77,8 +77,6 @@ http://naqshi-media.com:1935/live/NaqshiMedia/playlist.m3u8
 https://live20.bozztv.com/giatv/giatv-ESRAHD/ESRAHD/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Esra-designstyle-candy-m.png",esra 2
 https://live20.bozztv.com/giatv/giatv-esra2hd_kamalblbas/esra2hd_kamalblbas/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/V3l865CaNt9UFW9iuRQu7Z9RkO2jpQKtSzxqwRKyKyN2LXmjNUXCdpc_Khbz20S7iE2VUTiJgYbnJmAn9nTitA=w480-h960-rw",shna quran
-http://rawshan.ddns.net:1935/live/rawshantv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GH8b70s.jpeg",SPI HD
 https://live20.bozztv.com/giatv/giatv-spitv4k_kamalblbas/spitv4k_kamalblbas/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.speemedia.com/logocc4.png",SPI-QURAN
@@ -89,6 +87,8 @@ http://baskhd.ddns.net:40/live/QURANHDTV/mono.m3u8
 http://mmn.mypsx.net:1935/live/mmnhdquran/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mixmedia.tv/wp-content/uploads/2024/10/IMK-1.png",imk quran
 http://avrstream.com:1935/live/IMKQURANHD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/V3l865CaNt9UFW9iuRQu7Z9RkO2jpQKtSzxqwRKyKyN2LXmjNUXCdpc_Khbz20S7iE2VUTiJgYbnJmAn9nTitA=w480-h960-rw",shna quran
+http://rawshan.ddns.net:1935/live/rawshantv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/fnlOclpn4TPCxmCTF6NryvufnHBa6nuweGFDUoYRXf1byorWRb9ZcAJI0DNNCfY8d_t-phm1=s160-c-k-c0x00ffffff-no-rj",SoranEntertainment
 http://avrstream.com:1935/live/SoranEntertainment/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jj3DLNv.jpeg",Next tv
