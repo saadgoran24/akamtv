@@ -21,11 +21,9 @@ https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist_w17909058
 https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD-avc1_2500000=10002,mp4a_128000=20000.m3u8
 #EXTINF:-1 tvg-logo="https://www.gksat.tv/images/logo.png",GaliKurdistan HD
 https://live.host247.net/gk/gksat/chunklist_w1358946070.m3u8
-#EXTINF:-1 tvg-logo="https://mixmedia.tv/wp-content/uploads/2023/08/xak-tv.png",khak HD
-http://khakhd.ddns.net:1935/stream/khakhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.welattv.net/files/welattv-logo-6_0.png",welat tv
 https://stream.badinan.xyz/welat/tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/speda.png",Speda
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iLegreI.jpeg",Speda
 http://s3.e-cdn.me:80/live/Bengamenbukinafaso2026/msvrpi45e1/129959.m3u8
 #EXTINF:-1 tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/spda-drama.png",Speda DRAMA
 http://109.71.252.138:80/Speddaram4kk/mpegts?token=yusfstore3434fyusfstore3434yusfstore3434yusfstore3434yusfstore3434fwestrqwerwefwefrwefwefwes&type=live
@@ -43,6 +41,8 @@ https://app-live.org/live/a267c1b3/index.m3u8
 http://mmn.mypsx.net:1935/live/mmnhdnews/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/11/trt-kurdi.png",TRT KURDI
 https://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-logo="https://mixmedia.tv/wp-content/uploads/2023/08/xak-tv.png",khak HD
+http://khakhd.ddns.net:1935/stream/khakhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/halabja.png",halabjatv
 http://halabjatv.ddns.net:40/live/halabjatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qSaBZWT.png",Tishk tv
