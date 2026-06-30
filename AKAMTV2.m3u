@@ -9,7 +9,7 @@ https://hlspackager.akamaized.net/live/DB/NRT_HD/HLS/NRT_HD-avc1_2500000=10002,m
 http://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV-avc1_2500000=10002,mp4a_128000=20000.m3u8
 #EXTINF:-1 tvg-logo="https://mixmedia.tv/wp-content/uploads/2024/01/cannel-8.png",kenal 8
 https://live.channel8.com/Channel8-Kurdish/tracks-v4a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/kurdsat-news.png",Kurdsat news
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0SF9fZ3.png",Kurdsat news
 https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS-avc1_2500000=10002,mp4a_128000=20000.m3u8
 #EXTINF:-1 tvg-logo="https://nucetv.net/sor/uploads/logo/logo_69492e7fc88ba8-05371787.png",nuce tv
 https://hlspackager.akamaized.net/live/DB/NU_TV/HLS/NU_TV-avc1_2500000=10002,mp4a_128000=20000.m3u8
@@ -17,7 +17,7 @@ https://hlspackager.akamaized.net/live/DB/NU_TV/HLS/NU_TV-avc1_2500000=10002,mp4
 https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_source/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/kurdstan-tv.png",Kurdistan TV
 https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist_w1790905875_b1700000_sleng_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/kurdsat.png",Kurdsat
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y3PaDFV.jpeg",Kurdsat
 https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD-avc1_2500000=10002,mp4a_128000=20000.m3u8
 #EXTINF:-1 tvg-logo="https://www.gksat.tv/images/logo.png",GaliKurdistan HD
 https://live.host247.net/gk/gksat/chunklist_w1358946070.m3u8
