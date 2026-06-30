@@ -51,7 +51,7 @@ https://zindi.sterk.tv/live/sterk.m3u8
 http://avrstream.com:1935/live/AvarTv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EqRHNnf.jpeg",kurd channel
 https://kurdchhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://www.ecap-partner.com/wp-content/uploads/ANIMALBOX-1.png",animalbox
+#EXTINF:-1 tvg-logo="https://www.ecap-partner.com/wp-content/uploads/ANIMALBOX-1.png",animal box
 https://live20.bozztv.com:443/giatv/giatv-animalbox/animalbox/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yxEvcVp.jpeg",Parwardayi tv
 https://parwarda.unitedmixmedia.tv/Parwardayi_Hawler/tracks-v2a1/mono.m3u8
@@ -135,8 +135,6 @@ https://183.bozztv.com/giatv/giatv-zhintv/zhintv/playlist.m3u8
 http://shnatv.ddns.net:1935/live/shnatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://rashaba.com/assets/images/ch_logo/shana_v1.webp",shna doc
 https://cdn.karwan.tv/shna-tv-3/index.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/vOMV90y25YDRtvUVCbkoAvQ_5rGZsMAxQkegh-R5xQdUi0g-YRcuQno1yuw3v-CB1A=w480-h960-rw",zaroktv
-https://zindisorani.zaroktv.com.tr/hls/0/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4D0wqE5.png",MMN Documentary
 http://mmn.mypsx.net:1935/live/mmnhddocumentary/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/qalqt.png",qalat tv
@@ -167,8 +165,10 @@ http://afarintv2.flashmediacast.com:1935/afarinTV/livestream/playlist.m3u8
 http://afarinTV.flashmediacast.com:1935/afarinTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mixmedia.tv/wp-content/uploads/202/08/a-kids.png",SPI kids
 https://live20.bozztv.com/giatv/giatv-spikids4k2025/spikids4k2025/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gFBzSxX.jpeg",znarkids
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gFBzSxX.jpeg",znar kids
 https://live20.bozztv.com/giatv/giatv-znarkids/znarkids/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/vOMV90y25YDRtvUVCbkoAvQ_5rGZsMAxQkegh-R5xQdUi0g-YRcuQno1yuw3v-CB1A=w480-h960-rw",zarok tv
+https://zindisorani.zaroktv.com.tr/hls/0/stream.m3u8
 #EXTINF:-1 tvg-logo="https://api.hdbox.net/assets/2f9d05db-ebb2-4981-8042-059da2e4955a",kidco hd
 http://avrstream.com:1935/live/kidcohd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/_kWIHLmuhDCQE_0kn04PieGljfQ1QR1nvtGkENlMFKc9TxXLEdxVZayyIwnPpmctpxGtJz0A=s160-c-k-c0x00ffffff-no-rj",one kids
