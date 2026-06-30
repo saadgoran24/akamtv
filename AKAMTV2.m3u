@@ -19,6 +19,10 @@ https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarme
 https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist_w1790905875_b1700000_sleng_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/kurdsat.png",Kurdsat
 https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD-avc1_2500000=10002,mp4a_128000=20000.m3u8
+#EXTINF:-1 tvg-logo="https://www.gksat.tv/images/logo.png",GaliKurdistan HD
+https://live.host247.net/gk/gksat/chunklist_w1358946070.m3u8
+#EXTINF:-1 tvg-logo="https://mixmedia.tv/wp-content/uploads/2023/08/xak-tv.png",khak HD
+http://khakhd.ddns.net:1935/stream/khakhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.welattv.net/files/welattv-logo-6_0.png",welat tv
 https://stream.badinan.xyz/welat/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/speda.png",Speda
@@ -47,8 +51,6 @@ https://zindi.sterk.tv/live/sterk.m3u8
 http://avrstream.com:1935/live/AvarTv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EqRHNnf.jpeg",kurd channel
 https://kurdchhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FYoZdgd.jpeg",zhin tv
-https://183.bozztv.com/giatv/giatv-zhintv/zhintv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/9zOhX61wCOwdHeJn_dqqHtRHSECy9yj8ScnDgweFRnLgzaEZaLpip65cwLbtALrIFVWSG22kuA=s160-c-k-c0x00ffffff-no-rj",K21
 http://k21hd.mypsx.net:40/live/KANALI/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/2IPU5uwl4nSmp9cqaa6l6QejXSvOhLgzJyM9KZeSpQYxd12Oz1ujgDz2pJI9Y3mgq18J=w480-h960-rw",REDTV
@@ -71,12 +73,8 @@ http://avrstream.com:1935/live/emantv/playlist.m3u8
 http://avrstream.com:1935/live/FarmodaTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wYlkkEb.jpeg",bask HD
 http://baskhd.ddns.net:40/live/baskhd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://rashaba.com/assets/images/ch_logo/shana_v1.webp",shnatv
-http://shnatv.ddns.net:1935/live/shnatv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/V3l865CaNt9UFW9iuRQu7Z9RkO2jpQKtSzxqwRKyKyN2LXmjNUXCdpc_Khbz20S7iE2VUTiJgYbnJmAn9nTitA=w480-h960-rw",shna quran
-http://rawshan.ddns.net:1935/live/rawshantv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://rashaba.com/assets/images/ch_logo/shana_v1.webp",shna doc
-https://cdn.karwan.tv/shna-tv-3/index.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/vt2D1EZ6xsxmh6jwNQL3Nh1AYGFhFX2jjCURiGCGwLrKbF9lEjHb7v5Ycj8-YmhhN8U=w480-h960-rw",sunnat kurdi
+https://live20.bozztv.com:443/giatv/giatv-rsunnat/rsunnat/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GH8b70s.jpeg",SPI HD
 https://live20.bozztv.com/giatv/giatv-spitv4k_kamalblbas/spitv4k_kamalblbas/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.speemedia.com/logocc4.png",SPI-QURAN
@@ -85,12 +83,16 @@ https://live20.bozztv.com/giatv/giatv-spi_quran_hd/spi_quran_hd/chunks.m3u8
 http://avrstream.com:1935/live/emantv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://c1.wallpaperflare.com/preview/704/567/592/letter-b-sign-sign-letter-symbol.jpg",Barin Quran tv
 http://baskhd.ddns.net:40/live/QURANHDTV/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4D0wqE5.png",MMN Quran
+http://mmn.mypsx.net:1935/live/mmnhdquran/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/SaZobDSgO9rmgr80t2Z68AwMy6GKz1-E3Hf4O5tnt3hjUeu4gvs8V7xiav-B3-OAFbc=w480-h960-rw",NaqshiMedia
 http://naqshi-media.com:1935/live/NaqshiMedia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9v37uNW.png",esra tv
 https://live20.bozztv.com/giatv/giatv-ESRAHD/ESRAHD/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Esra-designstyle-candy-m.png",esra 2
 https://live20.bozztv.com/giatv/giatv-esra2hd_kamalblbas/esra2hd_kamalblbas/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/V3l865CaNt9UFW9iuRQu7Z9RkO2jpQKtSzxqwRKyKyN2LXmjNUXCdpc_Khbz20S7iE2VUTiJgYbnJmAn9nTitA=w480-h960-rw",shna quran
+http://rawshan.ddns.net:1935/live/rawshantv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/fnlOclpn4TPCxmCTF6NryvufnHBa6nuweGFDUoYRXf1byorWRb9ZcAJI0DNNCfY8d_t-phm1=s160-c-k-c0x00ffffff-no-rj",SoranEntertainment
 http://avrstream.com:1935/live/SoranEntertainment/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jj3DLNv.jpeg",Next tv
@@ -119,24 +121,22 @@ https://cp11.adabmedia.com/hls2/sport.m3u8
 https://183.bozztv.com/giatv/giatv-BEINMAX3KRDTV/BEINMAX3KRDTV/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://mixmedia.tv/wp-content/uploads/2024/10/IMK-1.png",imk quran
 http://avrstream.com:1935/live/IMKQURANHD/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://api.hdbox.net/assets/0ddad16a-a586-4481-89b2-3c127c98f5b3",sada tv
-http://baskhd.ddns.net:40/live/sadatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://logomoose.com/wp-content/uploads/2009/10/oneplus.jpg",one plus
 http://217.76.62.187/hls/kurdiplus.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cvKGVKD.png",Ala HD
 http://avrstream.com:1935/live/ala-hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/znar.png",Znar tv
 https://live20.bozztv.com/giatv/giatv-znar/znar/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gFBzSxX.jpeg",znarkids
-https://live20.bozztv.com/giatv/giatv-znarkids/znarkids/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/z0Uu9aXx_-pjLtxUoz3qSjrDbtZ1tmNoXuLfFPsKYZjpV12H2jg8jpffsSSRprhHS4suhaMC8K-08EdlFixw=w480-h960-rw",kikuk tv
 https://live.kirkuklive.live/hls/stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FYoZdgd.jpeg",zhin tv
+https://183.bozztv.com/giatv/giatv-zhintv/zhintv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://rashaba.com/assets/images/ch_logo/shana_v1.webp",shnatv
+http://shnatv.ddns.net:1935/live/shnatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://rashaba.com/assets/images/ch_logo/shana_v1.webp",shna doc
+https://cdn.karwan.tv/shna-tv-3/index.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/vOMV90y25YDRtvUVCbkoAvQ_5rGZsMAxQkegh-R5xQdUi0g-YRcuQno1yuw3v-CB1A=w480-h960-rw",zaroktv
 https://zindisorani.zaroktv.com.tr/hls/0/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KvC7CZb.png",kurd 7
-http://avrstream.com:1935/live/Kurd7HD/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4D0wqE5.png",MMN Quran
-http://mmn.mypsx.net:1935/live/mmnhdquran/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4D0wqE5.png",MMN Documentary
 http://mmn.mypsx.net:1935/live/mmnhddocumentary/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/qalqt.png",qalat tv
@@ -145,26 +145,18 @@ http://213.32.255.86:1935/live/Qellat_tv/halabjemono.m3u8
 https://iptv-link.short.gy/Niroj_HD.m3u8
 #EXTINF:-1 tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/garyan.png",garyan
 https://live20.bozztv.com/giatv/giatv-halabja88garyan/halabja88garyan/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgRTbPEPWBJVxu5v_XNPVAyiB7aanTzZffC6Of7MNo90ozf6-ejcNqJBYOk_vVXo4yQqHfCjN9pucW-yhH3y78byVjcKqLNp7Ah-dXgK9ynwUC31DLThLNp95wR8YVwe_5kUu9KJv39_wpDG8g42d8X4CKz1ibhW6zZynoOIRETYMOSuyO_wLKlLgLX3Oll=s205",Mix kurdy
-http://avrstream.com:1935/live/Mix-kurdy/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9V8aUhX.jpeg",walla tv
 https://live20.bozztv.com/giatv/giatv-wallatv88/wallatv88/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ITkhC388Rxg5BWVQDx2TcuEKK3JdbRnDfni6DR9nR9XTmA5o1Wf7n95kfoQqPov9VDl0-Rd21Eq3so-8_-AKvmA=w480-h960-rw",ROJHELAT
 https://hlspackager.akamaized.net/live/DB/ROJHELAT/HLS/ROJHELAT-avc1_2500000=10002,mp4a_128000=20000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dA2z3ym.png",Barin family
 http://baskhd.ddns.net:40/live/BarinfamilyHD/mono.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/vt2D1EZ6xsxmh6jwNQL3Nh1AYGFhFX2jjCURiGCGwLrKbF9lEjHb7v5Ycj8-YmhhN8U=w480-h960-rw",sunnat kurdi
-https://live20.bozztv.com:443/giatv/giatv-rsunnat/rsunnat/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://mixmedia.tv/wp-content/uploads/2023/08/xak-tv.png",khak HD
-http://khakhd.ddns.net:1935/stream/khakhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Hge9Iuu9wtGq63Rvd4C5S21jUdCXBxBRupMQgpOyaWSNDHB5C-GuSrGnTKtuHI4E92Xht-laSQ=s160-c-k-c0x00ffffff-no-rj",Hormzyar HD
 http://avrstream.com:1935/live/HormzyarHD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://api.hdbox.net/assets/678c1be7-f66e-4df0-851e-3caeed04d7ed",Ala tv
 http://avrstream.com:1935/live/ala-hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/uxdEL6pdNbr0hh9TBd-09gmiJIiBg8_5MhpZj5v7sGmJGSQC8YWeCY9_LCH4hnXTNVuC50zCijNv_sa90LmQpqU=w480-h960-rw",Dunia tv
 https://live20.bozztv.com/giatv/giatv-DniaTV/DniaTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.gksat.tv/images/logo.png",GaliKurdistan HD
-https://live.host247.net/gk/gksat/chunklist_w1358946070.m3u8
 #EXTINF:-1 tvg-logo="https://api.hdbox.net/assets/36b145fd-e941-4144-8297-fcd7d2dc1312",Ranya HD
 https://avr.host247.net/Ranya/RanyaCity/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/derin.png",Derin tv
@@ -175,6 +167,8 @@ http://afarintv2.flashmediacast.com:1935/afarinTV/livestream/playlist.m3u8
 http://afarinTV.flashmediacast.com:1935/afarinTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mixmedia.tv/wp-content/uploads/202/08/a-kids.png",SPI kids
 https://live20.bozztv.com/giatv/giatv-spikids4k2025/spikids4k2025/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gFBzSxX.jpeg",znarkids
+https://live20.bozztv.com/giatv/giatv-znarkids/znarkids/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://api.hdbox.net/assets/2f9d05db-ebb2-4981-8042-059da2e4955a",kidco hd
 http://avrstream.com:1935/live/kidcohd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/_kWIHLmuhDCQE_0kn04PieGljfQ1QR1nvtGkENlMFKc9TxXLEdxVZayyIwnPpmctpxGtJz0A=s160-c-k-c0x00ffffff-no-rj",one kids
