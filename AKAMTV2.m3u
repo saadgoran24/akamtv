@@ -287,13 +287,13 @@ https://live-aburayhan1109.telewebion.ir/ek/tv4/live/576p/index.m3u8
 https://live-aburayhan1102.telewebion.ir/ek/varzesh/live/1080p/index.m3u8
 #EXTINF:-1 tvg-logo="https://watch.toughprotection.com/uploads/tv_image/sm/irib-quran.png",IRIB Quran
 https://live-aburayhan1102.telewebion.ir/ek/quran/live/1080p/index.m3u8
-#EXTINF:-1 tvg-logo="https://watch.toughprotection.com/uploads/tv_image/sm/irib-quan.png",noor tv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/miUiyWP.jpeg",noor tv
 https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8
-#EXTINF:-1 tvg-logo="https://watch.toughprotection.com/uploads/tv_image/sm/irib-quan.png",Kalemaeh tv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aXLra3v.jpeg",Kalemaeh tv
 https://player.kalemeh.tv/live/ngrp:kalemeh_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n5wOeeF.png",mostanad
 https://live-aburayhan1113.telewebion.ir/ek/mostanad/live/1080p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YYk9.jpeg",ifilm
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J9YOHHw.jpeg",ifilm
 https://live.presstv.ir/hls/ifilmfa_4_482/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rwYYk9.jpeg",iran
 https://mediamtx.elitelatrade.com/live/stream/main_stream.m3u8
