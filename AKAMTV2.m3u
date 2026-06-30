@@ -195,6 +195,8 @@ https://tv-trtarabi.medya.trt.com.tr/master.m3u8
 https://imn-live.esite-lab.com/hls/iraqia-news.m3u8
 #EXTINF:-1 tvg-logo="https://api.hdbox.net/assets/02875807-d420-4cee-bdcb-0d620eb3cb1e",al sharqiya news
 http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k4GacqV.jpeg",shams tv
+https://stream.shams.tv/hls/0/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YMqWEe4.png",Alaraby 1
 https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gp5mNea.png",Alaraby 2
@@ -203,10 +205,16 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5617
 https://s1.ettehadlive.com/live/34/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bnn29DA.png",al sharq news
 https://live-news.asharq.com/asharq.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yYmczD6.jpeg",al asharq discovery
-https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k4GacqV.jpeg",shams tv
-https://stream.shams.tv/hls/0/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y6qWOa2.png",al jazeera mubasher
+https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FkXZG2X.jpeg",Palestine Mubasher
+https://pbc.furrera.ps/palestinelivehd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AYiyp8q.jpeg",al iraqiya
+https://imn-live.esite-lab.com/hls/iraqia-general.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AYip8q.jpeg",Dijla
+https://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jduNvzT.png",AL RASHEED HD
+https://media1.livaat.com/static/AL-RASHEED-HD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k4acqV.jpeg",Qatar 1
 https://qatartv.akamaized.net/hls/live/20000609/qtv1/stream_04/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k4cqV.jpeg",Qatar 2
@@ -217,18 +225,12 @@ https://qatartv.akamaized.net/hls/live/20000612/qtvquran/stream_04/index.m3u8
 https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hre0vw9.jpeg",Roya drama
 https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/drama/playlist/3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yYmczD6.jpeg",al asharq discovery
+https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a2cI0nT.jpeg",al asharq documentary
 https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FkXZG2X.jpeg",Palestine Mubasher
-https://pbc.furrera.ps/palestinelivehd/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y6qWOa2.png",al jazeera mubasher
-https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EIRwNo.png",alwan sport
-https://stream.kurdtv.live/alwan-sport/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E7IRwNo.png",al jazeera documentary
 https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/624/439/png-clipart-national-geographic-abu-dhabi-television-channel-logo-national-magazine-awards-television-angle.png",nat geo abu dhabi
-https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xksckpy.jpeg",DW arabic
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 #EXTINF:-1 tvg-logo="https://makkahtv.tv/assets/images/makkah-channel-redcolor-1440-alpha-570x716.png",Makkah tv
@@ -239,22 +241,16 @@ http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AYiyp8q.jpeg",Sharjah Quran
 https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil//playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AYiyp8q.jpeg",al iraqiya
-https://imn-live.esite-lab.com/hls/iraqia-general.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AYip8q.jpeg",Dijla
-https://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jduNvzT.png",AL RASHEED HD
-https://media1.livaat.com/static/AL-RASHEED-HD/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sS36AIn.gif",huda tv
-https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vpwmOHM.png",Jordan kitchen
-https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/cooking/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EKrJsOO.png",afaq tv
-https://s1.ettehadlive.com/live/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EKrJsO.png",Kuwait Ethra
 https://kwtethta.cdn.mangomolo.com/eth/smil:eth.stream.smil/chunklist_b550000_t64MzYwcA==.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EKJsOO.png",iqra arabic
 https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EKrJsOO.png",afaq tv
+https://s1.ettehadlive.com/live/1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sS36AIn.gif",huda tv
+https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vpwmOHM.png",Jordan kitchen
+https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/cooking/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/PRAd1q7Xa2Z-S-PuPa24B7v_9kbpm6DOrglY7QE23niNe1TtORkbTni11BEnzZr_qm0Vx1RNB-7H9UKX68sI=w480-h960-rw",roya kitchen
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-kitchen/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/agtB73A.png",CNN NEWS
@@ -267,8 +263,6 @@ https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a44
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3UeSR9I.png",BBC earth
 https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/I0bgXll.jpeg",BBC Kids
-http://193.46.58.239:8080/CbeebiesHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I0gXll.jpeg",islam
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/c6a600b0-82cb-454a-8953-2bb2bb372edc/master.m3u8
 #EXTINF:-1 tvg-logo="https://api.hdbox.net/assets/0313a7df-e5e2-4868-bf59-6452e057bb87",National Geographic HD
