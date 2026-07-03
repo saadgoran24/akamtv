@@ -24,7 +24,7 @@ https://live.host247.net/gk/gksat/chunklist_w1358946070.m3u8
 #EXTINF:-1 tvg-logo="https://www.welattv.net/files/welattv-logo-6_0.png",welat tv
 https://stream.badinan.xyz/welat/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iLegreI.jpeg",Speda
-https://archive.org/download/hd_20220629.mp4/لاول مرة تلاوة مرئية لسورة البقرة كاملة _ بالترتيل السريع-الشيخ رعد الكردي_HD.ia.mp4
+http://s3.e-cdn.me:80/live/Bengamenbukinafaso2026/msvrpi45e1/129959.m3u8
 #EXTINF:-1 tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/spda-drama.png",Speda DRAMA
 http://109.71.252.138:80/Speddaram4kk/mpegts?token=yusfstore3434fyusfstore3434yusfstore3434yusfstore3434yusfstore3434fwestrqwerwefwefrwefwefwes&type=live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AYNMYpG.jpeg",bangawaz tv
@@ -81,6 +81,8 @@ https://live20.bozztv.com/giatv/giatv-esra2hd_kamalblbas/esra2hd_kamalblbas/chun
 https://live20.bozztv.com/giatv/giatv-spitv4k_kamalblbas/spitv4k_kamalblbas/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.speemedia.com/logocc4.png",SPI-QURAN
 https://live20.bozztv.com/giatv/giatv-spi_quran_hd/spi_quran_hd/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.speemedia.com/logcc4.png",QURAN
+https://archive.org/download/hd_20220629.mp4/لاول مرة تلاوة مرئية لسورة البقرة كاملة _ بالترتيل السريع-الشيخ رعد الكردي_HD.ia.mp4
 #EXTINF:-1 tvg-logo="https://c1.wallpaperflare.com/preview/704/567/592/letter-b-sign-sign-letter-symbol.jpg",Barin Quran tv
 http://baskhd.ddns.net:40/live/QURANHDTV/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4D0wqE5.png",MMN Quran
