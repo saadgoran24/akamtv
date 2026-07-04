@@ -41,8 +41,8 @@ https://app-live.org/live/a267c1b3/index.m3u8
 http://mmn.mypsx.net:1935/live/mmnhdnews/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/11/trt-kurdi.png",TRT KURDI
 https://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://mixmedia.tv/wp-content/uploads/223/08/xak-tv.png",RONAHI TV
+https://hlspackager.akamaized.net/live/DB/RONAHI_TV/HLS/RONAHI_TV-avc1_2500000=10002.m3u8
 #EXTINF:-1 tvg-logo="https://mixmedia.tv/wp-content/uploads/223/08/xak-tv.png",ROJAVA HD
 https://hlspackager.akamaized.net/live/DB/ROJAVA_HD/HLS/ROJAVA_HD-avc1_2500000=10002.m3u8
 #EXTINF:-1 tvg-logo="https://mixmedia.tv/wp-content/uploads/2023/08/xak-tv.png",khak HD
