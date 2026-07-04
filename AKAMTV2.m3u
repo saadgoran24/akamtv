@@ -45,6 +45,8 @@ https://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8
 https://hlspackager.akamaized.net/live/DB/RONAHI_TV/HLS/RONAHI_TV.m3u8
 #EXTINF:-1 tvg-logo="https://mixmedia.tv/wp-content/uploads/223/08/xak-tv.png",ROJAVA HD
 https://hlspackager.akamaized.net/live/DB/ROJAVA_HD/HLS/ROJAVA_HD-avc1_2500000=10002.m3u8
+#EXTINF:-1 tvg-logo="https://mixmedia.tv/wp-content/uploads/23/08/xak-tv.png",jin tv
+https://live.jintv.org/medialive/jintv.m3u8
 #EXTINF:-1 tvg-logo="https://mixmedia.tv/wp-content/uploads/2023/08/xak-tv.png",khak HD
 http://khakhd.ddns.net:1935/stream/khakhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/halabja.png",halabjatv
