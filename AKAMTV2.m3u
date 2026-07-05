@@ -296,6 +296,8 @@ https://oitnhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p1LhqC4.png",IRIB 4
 https://live-aburayhan1109.telewebion.ir/ek/tv4/live/576p/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p1LhC4.png",IRIB tamasha
+https://live-aburayhan1102.telewebion.ir/ek/hdtest/live/1080p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p1hqC4.png",IRIB nasim
 https://live-aburayhan1112.telewebion.ir/ek/nasim/live/1080p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n0lH7bG.png",IRIB varzesh
@@ -312,3 +314,4 @@ https://live-aburayhan1113.telewebion.ir/ek/mostanad/live/1080p/index.m3u8
 https://live.presstv.ir/hls/ifilmfa_4_482/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rwYYk9.jpeg",iran
 https://mediamtx.elitelatrade.com/live/stream/main_stream.m3u8
+
