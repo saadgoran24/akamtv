@@ -126,7 +126,7 @@ http://7955e15a.rostelekom.xyz/iptv/L58NZSUP5Z4Z98/6131/index.m3u8
 #EXTINF:-1 tvg-logo="https://performingartistes.co.uk/assets/photos/FIFA2026.jpg",2 world cup 2026
 https://cp11.adabmedia.com/hls2/sport.m3u8
 #EXTINF:-1 tvg-logo="https://performingartistes.co.uk/assets/photos/FIFA2026.jpg",3 world cup 2026
-https://183.bozztv.com/giatv/giatv-BEINMAX3KRDTV/BEINMAX3KRDTV/chunks.m3u8
+http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=1667728&extension=.m3u8
 #EXTINF:-1 tvg-logo="https://performingartistes.co.uk/assets/photos/FIFA2026.jpg",4 world cup 2026
 https://lbgo.bozztv.com/ssh101/ssh101/alwan1krdtv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NKw1pEv.png",one plus
